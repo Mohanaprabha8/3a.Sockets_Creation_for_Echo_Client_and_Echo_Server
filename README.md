@@ -52,7 +52,7 @@ while True:
 conn.close()
 server.close()
 ```
-## OUPUT
+## OUTPUT:
 
 # Client
 ![alt text](<Screenshot 2026-02-12 114704.png>)
